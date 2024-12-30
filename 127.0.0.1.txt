@@ -1,0 +1,8 @@
+127.0.0.1 activate.navicat.com
+
+127.0.0.1 licensing.red-gate.com
+127.0.0.1 www.red-gate.com
+127.0.0.1 red-gate.com
+127.0.0.1 productusage.red-gate.com
+127.0.0.1 productlogin.red-gate.com
+127.0.0.1 featureusage
