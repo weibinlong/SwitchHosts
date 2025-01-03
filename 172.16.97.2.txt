@@ -1,0 +1,5 @@
+172.16.97.2 lvshou.brm
+172.16.97.2 lvshou.message
+172.16.97.2 lvshou.callcenter
+172.16.97.2 lvshou.wechat
+172.16.97.2 lvshou.brmread
