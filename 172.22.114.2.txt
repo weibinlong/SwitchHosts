@@ -1,0 +1,5 @@
+172.22.114.2 lvshou.brm
+172.22.114.2 lvshou.message
+172.22.114.2 lvshou.callcenter
+172.22.114.2 lvshou.wechat
+172.22.114.2 lvshou.brmread
